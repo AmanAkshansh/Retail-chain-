@@ -8,7 +8,7 @@ Retail chain case study using SAS
 4. London postcodes: Customers geographical information
 
 # Business context:
-One of the leading retail chains in London having more than 15 stores which sells Laptops and accessories.
+One of the leading retail chains having more than 500 stores which sells Laptops and accessories.
 The company would like to define the product strategy and pricing policies that will maximize company projected revenues in 2009.
 
 # Questions:
